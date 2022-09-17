@@ -1,0 +1,17 @@
+{
+    "name": "mac/test",
+    "autoload": {
+        "psr-4": {
+            "Mac\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Batsirai-sudo",
+            "email": "batsybbay@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-curl": "*"
+    }
+}
